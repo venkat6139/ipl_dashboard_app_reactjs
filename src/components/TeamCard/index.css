@@ -1,0 +1,25 @@
+.card-container {
+  border: 1px solid #ffffff;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 325px;
+  margin: 20px;
+  height: 150px;
+}
+
+.card-image {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+.card-name {
+  color: white;
+  font-weight: 500;
+  font-size: 25px;
+  max-width: 190px;
+}

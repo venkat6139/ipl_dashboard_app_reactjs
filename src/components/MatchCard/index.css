@@ -1,0 +1,27 @@
+.match-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 5px;
+  border-radius: 7px;
+  color: white;
+  align-items: center;
+  background-color: #0f172a;
+  max-width: 300px;
+  max-height: 400px;
+  margin: 20px;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.logo {
+  width: 100px;
+}
+.match-name {
+  margin: 10px;
+  text-align: center;
+  font-size: 15px;
+}
